@@ -10,7 +10,7 @@ Parameters:
   InstanceType:
     Description: EC2 instance type (t3a family only)
     Type: String
-    Default: t3a.small
+    Default: t3a.micro
     AllowedValues: 
       - t3a.nano
       - t3a.micro
